@@ -1,0 +1,11 @@
+StoreID,StoreName,StoreType,City,State,StoreOpenDate
+1,Store #1,Retail,San Diego,California,2016-02-21
+2,Store #2,Online,Portland,Oregon,2017-10-29
+3,Store #3,Distributor,Dallas,Texas,2017-07-07
+4,Store #4,Retail,Columbus,Ohio,2018-05-06
+5,Store #5,Online,Miami,Florida,2016-01-16
+6,Store #6,Retail,Charlotte,North Carolina,2016-04-05
+7,Store #7,Distributor,Philadelphia,Pennsylvania,2018-02-10
+8,Store #8,Retail,Miami,Florida,2018-05-19
+9,Store #9,Online,Baltimore,Maryland,2016-08-30
+10,Store #10,Retail,San Antonio,Texas,2016-06-19

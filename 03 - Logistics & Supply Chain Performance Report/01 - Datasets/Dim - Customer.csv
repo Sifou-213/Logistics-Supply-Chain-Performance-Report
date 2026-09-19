@@ -1,0 +1,51 @@
+CustomerID,CustomerName,CustomerSegment,City,State,CustomerSince
+CUST-1000,Daniel Brown,Corporate,Boston,Massachusetts,2016-01-15
+CUST-1001,James Rodriguez,Consumer,Dallas,Texas,2016-05-25
+CUST-1002,Linda Davis,Small Business,Baltimore,Maryland,2019-12-20
+CUST-1003,John Brown,Enterprise,Memphis,Tennessee,2019-07-16
+CUST-1004,Nancy Moore,Small Business,Houston,Texas,2016-04-30
+CUST-1005,Robert Jackson,Consumer,Kansas City,Missouri,2017-04-13
+CUST-1006,Susan Johnson,Corporate,Seattle,Washington,2016-05-18
+CUST-1007,James Williams,Small Business,Detroit,Michigan,2016-03-05
+CUST-1008,Michael Davis,Corporate,Houston,Texas,2017-11-07
+CUST-1009,Thomas Martin,Enterprise,San Antonio,Texas,2016-05-25
+CUST-1010,James Moore,Enterprise,Boston,Massachusetts,2018-11-18
+CUST-1011,Michael Moore,Enterprise,Denver,Colorado,2017-05-02
+CUST-1012,Susan Davis,Corporate,Charlotte,North Carolina,2017-07-24
+CUST-1013,Joseph Jackson,Small Business,Phoenix,Arizona,2019-10-02
+CUST-1014,David Smith,Corporate,Charlotte,North Carolina,2018-09-21
+CUST-1015,Anthony Garcia,Corporate,Milwaukee,Wisconsin,2017-03-14
+CUST-1016,Matthew Wilson,Small Business,Philadelphia,Pennsylvania,2019-01-09
+CUST-1017,William Rodriguez,Enterprise,Philadelphia,Pennsylvania,2016-09-27
+CUST-1018,John Miller,Enterprise,Detroit,Michigan,2020-01-21
+CUST-1019,Anthony Hernandez,Small Business,Philadelphia,Pennsylvania,2019-03-15
+CUST-1020,Patricia Williams,Corporate,Baltimore,Maryland,2019-03-26
+CUST-1021,Richard Brown,Corporate,San Diego,California,2018-08-26
+CUST-1022,Barbara Lopez,Enterprise,San Diego,California,2017-05-12
+CUST-1023,Karen Rodriguez,Consumer,Detroit,Michigan,2018-08-26
+CUST-1024,Betty Johnson,Consumer,Baltimore,Maryland,2018-04-13
+CUST-1025,Lisa Anderson,Consumer,Dallas,Texas,2017-01-24
+CUST-1026,Sarah Brown,Corporate,Columbus,Ohio,2016-07-12
+CUST-1027,Sandra Gonzalez,Corporate,Memphis,Tennessee,2016-07-17
+CUST-1028,Robert Moore,Enterprise,Kansas City,Missouri,2019-09-11
+CUST-1029,Elizabeth Martin,Consumer,Portland,Oregon,2018-06-01
+CUST-1030,Paul Lopez,Enterprise,Austin,Texas,2017-12-26
+CUST-1031,Charles Miller,Enterprise,Baltimore,Maryland,2018-05-17
+CUST-1032,Matthew Williams,Enterprise,Austin,Texas,2018-04-21
+CUST-1033,Mary Davis,Small Business,Denver,Colorado,2018-08-14
+CUST-1034,Anthony Martinez,Consumer,Nashville,Tennessee,2020-02-02
+CUST-1035,Robert Davis,Consumer,Boston,Massachusetts,2016-04-20
+CUST-1036,Margaret Brown,Small Business,Miami,Florida,2019-10-11
+CUST-1037,Richard Rodriguez,Small Business,Memphis,Tennessee,2019-08-31
+CUST-1038,Joseph Lopez,Consumer,Miami,Florida,2019-08-16
+CUST-1039,Jennifer Lopez,Small Business,San Antonio,Texas,2016-07-20
+CUST-1040,Barbara Miller,Enterprise,Charlotte,North Carolina,2016-05-04
+CUST-1041,Nancy Rodriguez,Corporate,Charlotte,North Carolina,2018-04-04
+CUST-1042,Matthew Williams,Enterprise,Philadelphia,Pennsylvania,2020-01-31
+CUST-1043,Karen Garcia,Consumer,Seattle,Washington,2017-11-25
+CUST-1044,Sarah Davis,Small Business,Houston,Texas,2016-08-11
+CUST-1045,Jennifer Anderson,Corporate,Milwaukee,Wisconsin,2017-05-24
+CUST-1046,Richard Rodriguez,Consumer,Baltimore,Maryland,2017-01-27
+CUST-1047,Sandra Moore,Small Business,Charlotte,North Carolina,2017-01-24
+CUST-1048,Linda Hernandez,Corporate,Milwaukee,Wisconsin,2019-01-03
+CUST-1049,Mark Johnson,Corporate,Charlotte,North Carolina,2018-07-07

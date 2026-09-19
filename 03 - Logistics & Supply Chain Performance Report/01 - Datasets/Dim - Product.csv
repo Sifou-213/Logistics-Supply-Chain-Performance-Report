@@ -1,0 +1,57 @@
+ProductID,ProductName,Category,SubCategory,UnitOfMeasure
+1,Paper Model 1,Office Supplies,Paper,Case
+2,Paper Model 2,Office Supplies,Paper,Case
+3,Paper Model 3,Office Supplies,Paper,Case
+4,Paper Model 4,Office Supplies,Paper,Box
+5,Binders Model 1,Office Supplies,Binders,Case
+6,Binders Model 2,Office Supplies,Binders,Each
+7,Binders Model 3,Office Supplies,Binders,Box
+8,Binders Model 4,Office Supplies,Binders,Case
+9,Labels Model 1,Office Supplies,Labels,Each
+10,Labels Model 2,Office Supplies,Labels,Case
+11,Labels Model 3,Office Supplies,Labels,Pack
+12,Labels Model 4,Office Supplies,Labels,Case
+13,Storage Model 1,Office Supplies,Storage,Pack
+14,Storage Model 2,Office Supplies,Storage,Case
+15,Storage Model 3,Office Supplies,Storage,Case
+16,Storage Model 4,Office Supplies,Storage,Box
+17,Art Supplies Model 1,Office Supplies,Art Supplies,Box
+18,Art Supplies Model 2,Office Supplies,Art Supplies,Pack
+19,Art Supplies Model 3,Office Supplies,Art Supplies,Box
+20,Art Supplies Model 4,Office Supplies,Art Supplies,Each
+21,Envelopes Model 1,Office Supplies,Envelopes,Each
+22,Envelopes Model 2,Office Supplies,Envelopes,Pack
+23,Envelopes Model 3,Office Supplies,Envelopes,Each
+24,Envelopes Model 4,Office Supplies,Envelopes,Each
+25,Chairs Model 1,Furniture,Chairs,Case
+26,Chairs Model 2,Furniture,Chairs,Box
+27,Chairs Model 3,Furniture,Chairs,Each
+28,Chairs Model 4,Furniture,Chairs,Each
+29,Tables Model 1,Furniture,Tables,Box
+30,Tables Model 2,Furniture,Tables,Each
+31,Tables Model 3,Furniture,Tables,Each
+32,Tables Model 4,Furniture,Tables,Box
+33,Bookcases Model 1,Furniture,Bookcases,Case
+34,Bookcases Model 2,Furniture,Bookcases,Each
+35,Bookcases Model 3,Furniture,Bookcases,Box
+36,Bookcases Model 4,Furniture,Bookcases,Each
+37,Furnishings Model 1,Furniture,Furnishings,Each
+38,Furnishings Model 2,Furniture,Furnishings,Case
+39,Furnishings Model 3,Furniture,Furnishings,Pack
+40,Furnishings Model 4,Furniture,Furnishings,Pack
+41,Phones Model 1,Technology,Phones,Box
+42,Phones Model 2,Technology,Phones,Pack
+43,Phones Model 3,Technology,Phones,Box
+44,Phones Model 4,Technology,Phones,Pack
+45,Accessories Model 1,Technology,Accessories,Case
+46,Accessories Model 2,Technology,Accessories,Box
+47,Accessories Model 3,Technology,Accessories,Pack
+48,Accessories Model 4,Technology,Accessories,Case
+49,Machines Model 1,Technology,Machines,Pack
+50,Machines Model 2,Technology,Machines,Each
+51,Machines Model 3,Technology,Machines,Each
+52,Machines Model 4,Technology,Machines,Case
+53,Copiers Model 1,Technology,Copiers,Each
+54,Copiers Model 2,Technology,Copiers,Each
+55,Copiers Model 3,Technology,Copiers,Box
+56,Copiers Model 4,Technology,Copiers,Pack

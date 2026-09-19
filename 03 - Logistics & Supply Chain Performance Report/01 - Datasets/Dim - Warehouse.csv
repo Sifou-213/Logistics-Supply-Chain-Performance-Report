@@ -1,0 +1,6 @@
+WarehouseCode,WarehouseName,City,State,Region,WarehouseCapacityUnits
+WARE-NBV1002,Central Distribution Hub,Columbus,Ohio,Midwest,50000
+WARE-XYS1001,East Coast Warehouse,Newark,New Jersey,Northeast,42000
+WARE-UHY1004,Midwest Fulfillment Center,Chicago,Illinois,Midwest,61000
+WARE-NMK1003,West Regional Warehouse,Sacramento,California,West,38000
+WARE-PUJ1005,South Logistics Depot,Atlanta,Georgia,South,45000
